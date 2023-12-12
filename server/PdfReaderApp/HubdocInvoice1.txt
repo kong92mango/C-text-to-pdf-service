@@ -1,0 +1,56 @@
+                                                                        Hubdoc Limited
+
+                           Bank House, 171 Midsummer Boulevard
+
+                           Milton Keynes, Buckinghamshire, MK91EB
+
+Invoice 1002                                   February 22, 2019
+
+UK Company
+
+Alan UK
+
+test address
+
+Toronto, Ontario
+
+Invoice Receipt
+
+This email confirms your recent payment of £22.50. Here are the details
+
+of your payment:
+
+Account                    Description                                  Amount
+
+alan+ukclient1@hubdoc.com  Business client on 2019                      £7.50
+
+                           partner promotion
+
+alan+ukclient2@hubdoc.com  Business client on 2019                      £7.50
+
+                           partner promotion
+
+alan+ukclient3@hubdoc.com  Business client on 2019                      £7.50
+
+                           partner promotion
+
+                           Subtotal                                     £22.50
+
+                           Tax 0%                                       £0.00
+
+                           Total                                        £22.50
+
+                           Paid                                         -£22.50
+
+                           Total Due                                    £0.00
+
+                                                                        GBP
+
+Thank you for your business. Your next invoice date is March 22, 2019.
+
+This message was sent to alan+uk@hubdoc.com because you have a Hubdoc account.
+
+                  View your invoice on Hubdoc
+
+©2019 Hubdoc, Inc | All Rights Reserved | Privacy Policy | Terms of Service
+

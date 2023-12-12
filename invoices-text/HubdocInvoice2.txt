@@ -1,0 +1,67 @@
+Invoice 1018                                            March 12, 2019
+
+Alan Free
+
+Alan Free
+
+Australia Fake Address
+
+Brisbane, AL
+
+Invoice Receipt
+
+This email confirms your  recent  payment  of  $40.00.  Here are the details
+
+of your payment:
+
+Account                           Description           Amount
+
+alan+freeclient5@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient3@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient1@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient4@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient2@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient7@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+alan+freeclient6@hubdoc.com       Business client on    $20.00
+
+                                  wholesale pricing
+
+                                  Subtotal              $140.00
+
+                                  Xero promotion        -$100.00
+
+                                  Tax 0%                $0.00
+
+                                  Total                 $40.00
+
+                                  Paid                  -$40.00
+
+                                  Total Due             $0.00
+
+                                                        USD
+Thank you for your business. Your next invoice date is April 12, 2019.
+
+This message was sent to alan+free@hubdoc.com because you have a Hubdoc account.
+
+View your invoice on Hubdoc
+
+©2019 Hubdoc, Inc | All Rights Reserved | Privacy Policy | Terms of Service
+

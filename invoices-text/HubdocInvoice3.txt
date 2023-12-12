@@ -1,0 +1,67 @@
+Invoice 1030                                                            March 13, 2019
+
+canadian
+
+Alan
+
+test address
+
+London, ON
+
+Invoice Receipt
+
+This email confirms your recent payment of $14.13. Here are the details
+
+of your payment:
+
+Account                    Description                                  Amount
+
+alan+caclient@hubdoc.com   Business client on 2019                      $12.50
+
+                           partner promotion
+
+alan+caclient2@hubdoc.com  Business client on 2019                      $12.50
+
+                           partner promotion
+
+alan+caclient3@hubdoc.com  Business client on 2019                      $12.50
+
+                           partner promotion
+
+alan+caclient4@hubdoc.com  Business client on 2019                      $12.50
+
+                           partner promotion
+
+alan+caclient5@hubdoc.com  Business client on wholesale                 $25.00
+
+                           pricing
+
+alan+caclient6@hubdoc.com  Business client on wholesale                 $25.00
+
+                           pricing
+
+                           Subtotal                                     $100.00
+
+                           QBO MAG promotion:                           -$87.50
+
+                           5 Free Accounts
+
+                           GST 13%                                      $1.63
+
+                           Total                                        $14.13
+
+                           Paid                                         -$14.13
+
+                           Total Due                                    $0.00
+
+                                                                        CAD
+
+Thank you for your business. Your next invoice date is April 13, 2019.
+HST/GST # 813417409
+
+This message was sent to alan+ca@hubdoc.com because you have a Hubdoc account.
+
+                     View your invoice on Hubdoc
+
+©2019 Hubdoc, Inc | All Rights Reserved | Privacy Policy | Terms of Service
+
